@@ -1,0 +1,16 @@
+.friends {
+  margin-top: 80vh
+}
+
+h2{
+  color: white;
+}
+
+.friendsName {
+  max-width: 20%;
+
+}
+
+.friendsAvatar {
+  padding-right: 20px;
+}
