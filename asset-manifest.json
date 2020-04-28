@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/social-network-react-app/static/css/main.0d1e07c6.chunk.css",
+    "main.js": "/social-network-react-app/static/js/main.89ad23fc.chunk.js",
+    "main.js.map": "/social-network-react-app/static/js/main.89ad23fc.chunk.js.map",
+    "runtime-main.js": "/social-network-react-app/static/js/runtime-main.6a347572.js",
+    "runtime-main.js.map": "/social-network-react-app/static/js/runtime-main.6a347572.js.map",
+    "static/js/2.7e65d9a7.chunk.js": "/social-network-react-app/static/js/2.7e65d9a7.chunk.js",
+    "static/js/2.7e65d9a7.chunk.js.map": "/social-network-react-app/static/js/2.7e65d9a7.chunk.js.map",
+    "static/css/3.7d757304.chunk.css": "/social-network-react-app/static/css/3.7d757304.chunk.css",
+    "static/js/3.eb26360a.chunk.js": "/social-network-react-app/static/js/3.eb26360a.chunk.js",
+    "static/js/3.eb26360a.chunk.js.map": "/social-network-react-app/static/js/3.eb26360a.chunk.js.map",
+    "static/css/4.299bcfa7.chunk.css": "/social-network-react-app/static/css/4.299bcfa7.chunk.css",
+    "static/js/4.faf683f1.chunk.js": "/social-network-react-app/static/js/4.faf683f1.chunk.js",
+    "static/js/4.faf683f1.chunk.js.map": "/social-network-react-app/static/js/4.faf683f1.chunk.js.map",
+    "index.html": "/social-network-react-app/index.html",
+    "precache-manifest.1148e17eedc2031054e4cb012ff8cec2.js": "/social-network-react-app/precache-manifest.1148e17eedc2031054e4cb012ff8cec2.js",
+    "service-worker.js": "/social-network-react-app/service-worker.js",
+    "static/css/3.7d757304.chunk.css.map": "/social-network-react-app/static/css/3.7d757304.chunk.css.map",
+    "static/css/4.299bcfa7.chunk.css.map": "/social-network-react-app/static/css/4.299bcfa7.chunk.css.map",
+    "static/css/main.0d1e07c6.chunk.css.map": "/social-network-react-app/static/css/main.0d1e07c6.chunk.css.map",
+    "static/js/2.7e65d9a7.chunk.js.LICENSE.txt": "/social-network-react-app/static/js/2.7e65d9a7.chunk.js.LICENSE.txt",
+    "static/media/Ring-Preloader.gif": "/social-network-react-app/static/media/Ring-Preloader.2407b512.gif",
+    "static/media/user-image-png.png": "/social-network-react-app/static/media/user-image-png.6df4521c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a347572.js",
+    "static/js/2.7e65d9a7.chunk.js",
+    "static/css/main.0d1e07c6.chunk.css",
+    "static/js/main.89ad23fc.chunk.js"
+  ]
+}
