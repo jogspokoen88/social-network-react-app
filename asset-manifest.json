@@ -1,32 +1,32 @@
 {
   "files": {
     "main.css": "/social-network-react-app/static/css/main.983da4a0.chunk.css",
-    "main.js": "/social-network-react-app/static/js/main.c69cd548.chunk.js",
-    "main.js.map": "/social-network-react-app/static/js/main.c69cd548.chunk.js.map",
-    "runtime-main.js": "/social-network-react-app/static/js/runtime-main.016a1b6a.js",
-    "runtime-main.js.map": "/social-network-react-app/static/js/runtime-main.016a1b6a.js.map",
-    "static/js/2.7e65d9a7.chunk.js": "/social-network-react-app/static/js/2.7e65d9a7.chunk.js",
-    "static/js/2.7e65d9a7.chunk.js.map": "/social-network-react-app/static/js/2.7e65d9a7.chunk.js.map",
+    "main.js": "/social-network-react-app/static/js/main.39f8b86c.chunk.js",
+    "main.js.map": "/social-network-react-app/static/js/main.39f8b86c.chunk.js.map",
+    "runtime-main.js": "/social-network-react-app/static/js/runtime-main.94cb0ea0.js",
+    "runtime-main.js.map": "/social-network-react-app/static/js/runtime-main.94cb0ea0.js.map",
+    "static/js/2.e9236b5c.chunk.js": "/social-network-react-app/static/js/2.e9236b5c.chunk.js",
+    "static/js/2.e9236b5c.chunk.js.map": "/social-network-react-app/static/js/2.e9236b5c.chunk.js.map",
     "static/css/3.93176005.chunk.css": "/social-network-react-app/static/css/3.93176005.chunk.css",
     "static/js/3.d82646b2.chunk.js": "/social-network-react-app/static/js/3.d82646b2.chunk.js",
     "static/js/3.d82646b2.chunk.js.map": "/social-network-react-app/static/js/3.d82646b2.chunk.js.map",
     "static/css/4.cba5ab9b.chunk.css": "/social-network-react-app/static/css/4.cba5ab9b.chunk.css",
-    "static/js/4.7119afc2.chunk.js": "/social-network-react-app/static/js/4.7119afc2.chunk.js",
-    "static/js/4.7119afc2.chunk.js.map": "/social-network-react-app/static/js/4.7119afc2.chunk.js.map",
+    "static/js/4.349cd57b.chunk.js": "/social-network-react-app/static/js/4.349cd57b.chunk.js",
+    "static/js/4.349cd57b.chunk.js.map": "/social-network-react-app/static/js/4.349cd57b.chunk.js.map",
     "index.html": "/social-network-react-app/index.html",
-    "precache-manifest.6171b5b8cc78eefa767e6a6e9a4d8989.js": "/social-network-react-app/precache-manifest.6171b5b8cc78eefa767e6a6e9a4d8989.js",
+    "precache-manifest.70924eecd70fb73562b50b97c32be0b2.js": "/social-network-react-app/precache-manifest.70924eecd70fb73562b50b97c32be0b2.js",
     "service-worker.js": "/social-network-react-app/service-worker.js",
     "static/css/3.93176005.chunk.css.map": "/social-network-react-app/static/css/3.93176005.chunk.css.map",
     "static/css/4.cba5ab9b.chunk.css.map": "/social-network-react-app/static/css/4.cba5ab9b.chunk.css.map",
     "static/css/main.983da4a0.chunk.css.map": "/social-network-react-app/static/css/main.983da4a0.chunk.css.map",
-    "static/js/2.7e65d9a7.chunk.js.LICENSE.txt": "/social-network-react-app/static/js/2.7e65d9a7.chunk.js.LICENSE.txt",
+    "static/js/2.e9236b5c.chunk.js.LICENSE.txt": "/social-network-react-app/static/js/2.e9236b5c.chunk.js.LICENSE.txt",
     "static/media/Ring-Preloader.gif": "/social-network-react-app/static/media/Ring-Preloader.2407b512.gif",
     "static/media/user-image-png.png": "/social-network-react-app/static/media/user-image-png.6df4521c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.016a1b6a.js",
-    "static/js/2.7e65d9a7.chunk.js",
+    "static/js/runtime-main.94cb0ea0.js",
+    "static/js/2.e9236b5c.chunk.js",
     "static/css/main.983da4a0.chunk.css",
-    "static/js/main.c69cd548.chunk.js"
+    "static/js/main.39f8b86c.chunk.js"
   ]
 }
