@@ -1,7 +1,11 @@
 .descriptionBlock{
   padding: 10px;
 }
-.mainBanner {
-  width: 100%;
-  border-radius: 5px;
+
+.contact {
+  padding-left: 10px;
+}
+
+.mainPhoto {
+  max-width: 200px;
 }
